@@ -1,0 +1,8 @@
+.notification-item {
+    padding: 8px;
+    border-bottom: 1px solid cadetblue;
+}
+
+.notification-item:last-child {
+    border-bottom: none;
+}

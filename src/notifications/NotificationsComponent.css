@@ -1,0 +1,14 @@
+.notificationsCard {
+    border-radius: 10px;
+    background: #FFF;
+    padding: 1em;
+    text-align: left;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.notificationsCard ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
